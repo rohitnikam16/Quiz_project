@@ -1,4 +1,5 @@
 quiz_project
+
 This is quiz app created to conduct quiz, main objective of this project is to apply Object Oriented Programming (OOP) concepts.
 
 Concepts applied here are:
